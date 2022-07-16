@@ -3,6 +3,7 @@ RENCANA KONTEN WPU
   * ES6 
   * FRAMEWORK JAVASCRIPT
    > vue
+   > react
 - Struktur data dasar
 - PHP FRAMEWORK
   * laravel 
